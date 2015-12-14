@@ -1,0 +1,16 @@
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\bin\Debug\Ecuaciones cuadraticas.exe
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\bin\Debug\Ecuaciones cuadraticas.pdb
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\bin\Debug\Ecuaciones cuadraticas.xml
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\Ecuaciones cuadraticas.exe
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\Ecuaciones cuadraticas.xml
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\Ecuaciones cuadraticas.pdb
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\WindowsApplication1.frm2.resources
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\WindowsApplication1.frm.resources
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\bin\Debug\Ecuaciones cuadraticas.exe.manifest
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\bin\Debug\Ecuaciones cuadraticas.application
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\Ecuaciones cuadraticas.exe.manifest
+C:\Users\Ezequiel\Documents\ecuaciones cuadraticas\Ecuaciones cuadraticas\Ecuaciones cuadraticas\obj\x86\Debug\Ecuaciones cuadraticas.application
